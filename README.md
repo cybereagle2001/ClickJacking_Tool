@@ -35,7 +35,7 @@ cd ClickJacking_Tool
 
 ### Run
 ```bash
-python3 clickjacking_multi_poc.py
+python3 clickjacking_POC.py
 ```
 
 You’ll be prompted to enter one or more URLs:

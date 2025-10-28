@@ -29,8 +29,8 @@ If a target loads inside the iframe → it’s **vulnerable** (missing `X-Frame-
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/clickjacking-poc-generator.git
-cd clickjacking-poc-generator
+git clone https://github.com/cybereagle2001/ClickJacking_Tool.git
+cd ClickJacking_Tool
 ```
 
 ### Run

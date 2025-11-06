@@ -104,7 +104,6 @@ MalqartClickjacker > run
 
 ## 🌐 Inspired By
 
-- **[ShellForge](https://github.com/Wael-Rd/ShellForge)** – The gold standard in offensive payload generation  
 - **Metasploit Framework** – For its legendary console-driven workflow  
 - **Modern Clickjacking Research** – From OWASP to real-world bug bounty writeups
 
